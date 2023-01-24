@@ -1,0 +1,33 @@
+.client-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li a {
+
+    color: white;
+}
+
+#clientes{
+    padding: 20px;
+    margin: auto;
+    width: 800px;
+}
+
+#roda{
+  
+    padding: 20px;
+    
+}
+
+#textpe{
+    list-style-type: none;
+}
